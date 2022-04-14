@@ -3,3 +3,6 @@
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
+- Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/who0sy/count.svg)
